@@ -1,0 +1,3 @@
+[submodule "attaqCoreLibrary"]
+	path = attaqCoreLibrary
+	url = https://github.com/attaq-io/attaq-core-library
